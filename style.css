@@ -1,0 +1,165 @@
+body {
+    overflow-x: hidden;
+    height: 100%;
+}
+
+
+h1 {
+    border: 5px solid rgb(73, 66, 66);
+    width: 500px;
+    outline: 10px solid rgb(73, 66, 66);
+    background-color: rgb(73, 66, 66);
+    color: white;
+    font-family: sans-serif;
+    position: relative;
+    top: -630px;
+    letter-spacing: 10px;
+
+}
+
+#img1 {
+    background-image: url(images/image1.png);
+    width: 1800px;
+    height: 900px;
+    background-attachment: fixed;
+    position: relative;
+    top: -50px;
+    margin-top: -10px;
+    background-size: cover;
+
+}
+
+#p1 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+#d1 {
+    border: 1px solid transparent;
+    color: rgb(62, 80, 74);
+    background-color: transparent;
+    text-align: center;
+    width: 1300px;
+    position: relative;
+    left: 20px;
+    top: -159px;
+}
+
+#img2 {
+    background-image: url(images/image2.png);
+    width: 1800px;
+    height: 500px;
+    background-attachment: fixed;
+    position: relative;
+    top: -147px;
+    background-size: cover;
+}
+
+#f {
+    border: 5px solid rgb(73, 66, 66);
+    width: 363px;
+    outline: 10px solid rgb(73, 66, 66);
+    background-color: rgb(73, 66, 66);
+    color: white;
+    font-family: sans-serif;
+    position: relative;
+    top: -470px;
+    left: 506px;
+    letter-spacing: 10px;
+}
+
+#s {
+    font-size: 30px;
+}
+
+#p2 {
+    font-size: 20px;
+}
+
+#d2 {
+    border: 1px solid black;
+    color: white;
+    background-color: rgb(27, 22, 22);
+    text-align: center;
+    width: 1335px;
+
+    position: relative;
+    left: -1.1px;
+    top: -243px;
+}
+
+#img3 {
+    background-image: url(images/image3.png);
+    width: 1800px;
+    height: 500px;
+    background-attachment: fixed;
+    position: relative;
+    top: -247px;
+    background-size: cover;
+}
+
+#t {
+    border: 5px solid rgb(73, 66, 66);
+    width: 537px;
+    outline: 10px solid rgb(73, 66, 66);
+    background-color: rgb(73, 66, 66);
+    color: white;
+    font-family: sans-serif;
+    position: relative;
+    top: -570px;
+    left: 426px;
+    letter-spacing: 10px;
+}
+
+#q {
+    font-size: 30px;
+
+}
+
+#p3 {
+    font-size: 20px;
+}
+
+#d3 {
+    border: 1px solid black;
+    color: white;
+    background-color: rgb(27, 22, 22);
+    text-align: center;
+    width: 1335px;
+
+    position: relative;
+    left: -55.1px;
+    top: -325px;
+    padding: 60px;
+}
+
+#img4 {
+    background-image: url(images/image1.png);
+    width: 1800px;
+    height: 100vh;
+
+    background-attachment: fixed;
+    position: relative;
+    top: -325px;
+    background-size: cover;
+    background-position: center;
+}
+
+#w {
+    border: 5px solid rgb(73, 66, 66);
+    width: 357px;
+    outline: 10px solid rgb(73, 66, 66);
+    background-color: rgb(73, 66, 66);
+    color: white;
+    font-family: sans-serif;
+    position: relative;
+    top: -690px;
+    left: 503px;
+    letter-spacing: 10px;
+}
+
+
+@media(max-width:450px)
